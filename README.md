@@ -3,6 +3,7 @@
 This  is a Markdown to Html converter. I follow only the Markdown guidelines
 from the basic syntax portion of https://www.markdownguide.org/cheat-sheet/ . That means
 the only elements covered in my converter are
+
 Heading # H1, ## H2, ### H3
 Bold **Bold Text**
 Italic *Italicized text*
@@ -11,6 +12,7 @@ Code `code`
 Horizontal Rule ---
 Link [title](https://www.example.com)
 Image ![alt text](image.jpg)
+
 There is functionality for both Ordered and Unordered Lists with 1. 2. 3. and - - - as options to
 create the list, however they are both output the same as bullets. To use this converter, you
 need to be in the current directory of the Converter.hs file. Compile it with ghc --make
