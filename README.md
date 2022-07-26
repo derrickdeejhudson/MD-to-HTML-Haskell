@@ -18,7 +18,7 @@ Horizontal Rule ---
 
 Link [title](https://derrickdeejhudson.github.io/Personal-Website/)
 
-Image ![alt text](image.jpg)
+Image ![alt text](Basic-Syntax.png)
 
 There is functionality for both Ordered and Unordered Lists with 1. 2. 3. and - - - as options to
 create the list, however they are both output the same as bullets. To use this converter, you
